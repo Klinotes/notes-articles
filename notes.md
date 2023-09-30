@@ -32,13 +32,13 @@ Notes on taking cold shower.
 
 - start with luke warm.
 
-#### Affirmations
+## Affirmations
 
 Relax, breathe, and let the water slide down on your skin.
 
 It is easy, water is cold, and flowing down your skin.
 
-#### Thoughs
+## Thoughs
 
 - Start cold water on feet, while water warming up.
 - Warm water 
