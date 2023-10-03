@@ -1,0 +1,12 @@
+{
+    "file_title": "Movie list",
+    "short_movies":[
+        {
+            "title": "Canvas",
+            "lenght_minutes": "9",
+            "IMDB_url": "",
+            "tags": "animation , drawing, silent, berevement",
+            "platform_watched": "Netflix"
+        }
+    ]
+}
