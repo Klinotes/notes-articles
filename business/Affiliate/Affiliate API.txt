@@ -1,0 +1,12 @@
+Affiliate API
+
+Amazon Product Advertising API（Item search）
+
+Google Maps embed.(Map) https://www.google.co.jp/maps https://developers.google.com/maps/documentation/embed/
+
+Google Places API https://developers.google.com/places
+
+
+Amazon Product Advertising API
+
+
