@@ -1,11 +1,15 @@
 Notes on benefits of cold and cold shower
 
+- follow principles, individualised
+- cold is relative, build it up
+- tempeture change is beneficial all year round
+
 - confidence
 - good for heart, cardio vascular system
 
 - more you reject, more you need
 - hard at the beginnig until you get used to
-- mental workout
+- mental workout, balance, mood
 - push to unconfortable state
 - every time you push, you get more confident to do it again
 - your cells 
@@ -15,6 +19,25 @@ Notes on benefits of cold and cold shower
 - cold tolerance, tolerance of cold
 - narrow experience of life
 - doesn't need much time, starts with seconds
+
+- cold shock, activates and takes a minute to get over
+- full activation of parasympathetic nervous system, getting into calm state of mind
+- 
+
+## Cold threshold
+
+- not a sport, can't compete
+- some more cold tolerant
+- some have more sensitive nervous system
+- longer cold exposure has risks
+- can get hypothermia, frost bites
+
+## After-drop
+
+- core tempeture decreases after going out the cold
+- blood vessels dilute again
+- blood cool down from the cold tissues
+- tempeture receptors signal the brain that's it is colder
 
 
 ## Cold immersion
@@ -32,6 +55,9 @@ Notes on benefits of cold and cold shower
 - do acutely, called micro stress, healthy stress
 - heat is also a stressor
 - we have 3-10 times more cold receptors on the sking
+- activate stress system
+- getting sleepy if core tempeture decreases
+- not shivering as much over time
 - 
 
 
@@ -83,11 +109,9 @@ The cold triggers our metabolism, our internal furnace, by releasing free form f
 - in the cells are energy fabrics called mitochondria, cold activates the efficiencies of these cells
 
 - brown fat need to get activated just like muscles
-- 
+- cold water is relative, colder than the skin
+- 15 C or bellow is cold
 - insulin sensitivity
 - brown fat is closed to the central nervous system, located along the , supracurricular bones, largest depot we have
 - 
-
-
-
 
